@@ -19,7 +19,7 @@
 
 ## ⚡ Core Features & Architecture
 
-### 🗂️ Intake & Docket Management
+### 🗂️ Case Management
 * **Smart Case Entry:** A streamlined, multi-step intake wizard designed to capture critical metadata (Judges, Opposing Counsel, Incident Dates) without overwhelming administrative friction.
 * **Dynamic Timeline:** An interactive, chronologically sorted ledger of all case events, motions, and hearings, allowing for direct file attachments and summary logs.
 
